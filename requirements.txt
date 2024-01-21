@@ -1,0 +1,8 @@
+requests
+#pymupdf
+#pdfplumber
+tabula-py
+camelot-py[base]
+camelot-py[plot]
+ghostscript
+tk
